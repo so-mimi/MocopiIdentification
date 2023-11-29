@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx", "UniRx.csproj", "{431d42af-24e5-b6c8-f9ab-4e920ad076f3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.sony.mocopi.receiver", "com.sony.mocopi.receiver.csproj", "{daa5e236-bcff-95ae-fc8f-bde105fb32ff}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{42bedf22-33b6-af65-0c26-904612d6f4e8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx.Examples", "UniRx.Examples.csproj", "{465fdc94-5205-d027-b79b-a4549cfeede5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{8d021350-ab1f-956f-0f18-3c82cf73e6f3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431d42af-24e5-b6c8-f9ab-4e920ad076f3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431d42af-24e5-b6c8-f9ab-4e920ad076f3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{daa5e236-bcff-95ae-fc8f-bde105fb32ff}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{daa5e236-bcff-95ae-fc8f-bde105fb32ff}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42bedf22-33b6-af65-0c26-904612d6f4e8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42bedf22-33b6-af65-0c26-904612d6f4e8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465fdc94-5205-d027-b79b-a4549cfeede5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465fdc94-5205-d027-b79b-a4549cfeede5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8d021350-ab1f-956f-0f18-3c82cf73e6f3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8d021350-ab1f-956f-0f18-3c82cf73e6f3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
