@@ -3,6 +3,11 @@ createBy boichi(so-mimi)
 
 ## What is MocopiIdentification?
 mocopiを使用して様々な全身の動きを識別するツール
+・モーションを記録する
+・記録したモーションからONNXを作成する
+・Unityで使用する
+
+の3つの段階を経て使用できます。
 
 ## Introduction
 https://github.com/so-mimi/MocopiIdentification/releases
