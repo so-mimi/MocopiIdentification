@@ -93,7 +93,7 @@ UniRx参考記事
 https://qiita.com/S4ch1mos/items/162767fa59296f74ced0
 
 Unity Sentis記事
-書く
+https://zenn.dev/boichi/articles/268cf603991e7f
 
 その後、一番最初にダウンロードしたMotionIdentificationA.unitypackageをインポートしてください。
 
