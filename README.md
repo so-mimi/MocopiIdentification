@@ -47,7 +47,7 @@ https://www.sony.net/Products/mocopi-dev/jp/documents/ReceiverPlugin/SendData.ht
 
 入力の例
 
-https://www.youtube.com/watch?v=l4jItfOTs4s&list=RDl4jItfOTs4s&start_radio=1
+https://www.youtube.com/watch?v=qf6U8sbCL-A&list=PL5yxl18mFhO98ZCM35vV_wxKoHsEFmHLc&index=6
 
 すべて終えると、適切なcsvファイルが指定したファイルに生成されます。
 
