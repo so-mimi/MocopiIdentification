@@ -36,7 +36,8 @@ https://www.sony.net/Products/mocopi-dev/jp/documents/ReceiverPlugin/SendData.ht
 
 そしたら次へを押して指示に沿って進んでください。
 
-入力の例（今は別なので直す）
+入力の例
+
 https://www.youtube.com/watch?v=l4jItfOTs4s&list=RDl4jItfOTs4s&start_radio=1
 
 すべて終えると、適切なcsvファイルが指定したファイルに生成されます。
@@ -106,7 +107,8 @@ Unity Sentis記事
 
 Unityとmocopiアバターがリンクしたら数値が動きます！
 数値の例
-動画作る
+
+https://youtu.be/nBXq06g7S20
 
 
 
