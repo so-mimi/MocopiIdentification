@@ -119,5 +119,10 @@ Unityとmocopiアバターがリンクしたら数値が動きます！
 
 https://youtu.be/nBXq06g7S20
 
+### 2度目以降使用する際
+
+csvのところに生成されたONNXファイル、NoiseData.csv,TimeData.csv,の3つのファイルを削除してください。
+
+今後のアップデートで修正していく予定です
 
 
